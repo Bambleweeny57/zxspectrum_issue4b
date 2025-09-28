@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Issue-4-rescue")(type "Legacy")(uri "${KIPRJMOD}/Issue 4-rescue.lib")(options "")(descr ""))
+  (lib (name "Issue 4-rescue")(type "KiCad")(uri "${KIPRJMOD}/Issue 4-rescue.kicad_sym")(options "")(descr ""))
+)
