@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "coil")(type "KiCad")(uri "D:/Github/Repos/zxspectrum_issue4b/coil")(options "")(descr ""))
+  (lib (name "ZXSpectrum")(type "KiCad")(uri "${KIPRJMOD}/ZXSpectrum.pretty")(options "")(descr ""))
+)
