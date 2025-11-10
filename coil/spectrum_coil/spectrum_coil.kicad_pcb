@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "fabfiles/")
 		)
 	)
 	(net 0 "")
@@ -140,14 +140,14 @@
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
-			(end 4 3)
+			(end 4 0)
 			(stroke
 				(width 0.1)
-				(type default)
+				(type solid)
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "c6718bb6-342d-4c89-b9c6-16c33eb57c8a")
+			(uuid "6da9b2e3-78b4-42db-a268-716d5016fcad")
 		)
 		(pad "1" thru_hole circle
 			(at -3.81 3.81)
@@ -201,14 +201,6 @@
 			(remove_unused_layers no)
 			(uuid "d599c7c2-96be-4caf-967c-395e1c285faa")
 		)
-		(pad "6" thru_hole circle
-			(at 0 3.81)
-			(size 2 2)
-			(drill 0.762)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "b299144b-8ef9-4406-a70f-928068e64eae")
-		)
 		(pad "7" thru_hole circle
 			(at -2.54 0)
 			(size 2 2)
@@ -239,18 +231,7 @@
 		)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
 			(offset
-				(xyz 3.8 3.8 -1.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -180 -0)
-			)
-		)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
-			(offset
-				(xyz -3.8 3.8 -1.5)
+				(xyz 0 3.8 -1.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -261,7 +242,18 @@
 		)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
 			(offset
-				(xyz -3.8 -3.8 -1.5)
+				(xyz 3.8 3.8 -1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 -0 -0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(offset
+				(xyz -3.8 3.8 -1.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -281,6 +273,28 @@
 				(xyz -180 -0 -0)
 			)
 		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(offset
+				(xyz -3.8 -3.8 -1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 -0 -0)
+			)
+		)
+	)
+	(gr_rect
+		(start 114.172178 61.077822)
+		(end 114.922178 61.827822)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "28bf9387-1aeb-4f4f-8125-afe9e502eba8")
 	)
 	(gr_line
 		(start 121.5 51)

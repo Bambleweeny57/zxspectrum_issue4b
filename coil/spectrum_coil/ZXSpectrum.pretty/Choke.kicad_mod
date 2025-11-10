@@ -52,10 +52,10 @@
 	(attr through_hole)
 	(fp_circle
 		(center 0 0)
-		(end 4 3)
+		(end 4 0)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.SilkS")
@@ -100,14 +100,6 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "8f854870-5c6d-452e-8220-9b1363d1c701")
-	)
-	(pad "6" thru_hole circle
-		(at 0 3.81)
-		(size 2 2)
-		(drill 0.762)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "301dfcdf-8fd2-40e8-b750-b5fe120a0208")
 	)
 	(pad "7" thru_hole circle
 		(at -2.54 0)
