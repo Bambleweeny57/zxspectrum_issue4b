@@ -1,4 +1,4 @@
-26338139844589840
+26339906018041154
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104836,8 +104836,8 @@ Choke
 
 
 0
-8
-8
+7
+7
 audio_jack
 CONN5_SPC21348_MTC
 
@@ -104852,3 +104852,10 @@ Choke
 0
 10
 7
+coil
+MSD1278-103MLD_COC
+
+MSD1278-103MLD 
+0
+4
+4
