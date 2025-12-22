@@ -6,9 +6,9 @@
 	(paper "A1")
 	(title_block
 		(title "ZX Spectrum")
-		(date "2025-09-28")
+		(date "2025-12-22")
 		(rev "4b")
-		(company "Sinclair")
+		(company "Submeson Brain Corporation")
 	)
 	(lib_symbols
 		(symbol "74xx:74LS00"
@@ -34402,6 +34402,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 257.81 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 257.81 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "fc4a9277-fd96-4c4f-b4bb-cba06effa1e9")
 		)
@@ -34582,6 +34600,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 297.18 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 297.18 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "bbc371e0-f4c0-409d-979b-bd988aeccd22")
 		)
@@ -34688,6 +34724,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 297.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 297.18 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -34798,6 +34852,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 297.18 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 297.18 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "a061a162-7070-441e-be7d-549c3f155093")
 		)
@@ -34904,6 +34976,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 297.18 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 297.18 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "12"
@@ -35014,6 +35104,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 231.14 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 231.14 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c761365-6199-4c11-8a26-e3792830f331")
 		)
@@ -35078,6 +35186,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 297.18 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 297.18 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "9"
@@ -35188,6 +35314,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 297.18 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 297.18 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29e9347d-68c7-4883-8e2b-58831ad1b0c8")
 		)
@@ -35294,6 +35438,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 297.18 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 297.18 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "15"
@@ -35404,6 +35566,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 297.18 419.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 297.18 419.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "83168a76-d3a0-4528-a7cc-a642a2998028")
 		)
@@ -35512,6 +35692,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 226.06 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 226.06 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fa43ee59-2935-42fb-8051-b91792e46865")
 		)
@@ -35576,6 +35774,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 215.9 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 215.9 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -35644,6 +35860,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 325.12 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 325.12 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d1596506-aa63-44ba-9f13-3b453b849ea7")
 		)
@@ -35708,6 +35942,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 223.52 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 223.52 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -35776,6 +36028,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 325.12 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 325.12 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc945d78-6a83-4828-a81e-ec003f7bbe3c")
 		)
@@ -35840,6 +36110,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 325.12 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 325.12 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -35908,6 +36196,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 325.12 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 325.12 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5bfcaec-7fb2-4c19-a53f-e2b19c2abe83")
 		)
@@ -35972,6 +36278,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 345.44 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 345.44 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -36082,6 +36406,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 215.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 215.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d89d2219-a6f6-446c-b333-879e9bbc1bc8")
 		)
@@ -36146,6 +36488,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 205.74 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 205.74 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -36214,6 +36574,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 208.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 208.28 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a18ecccb-6209-4eb1-bfd5-aa12a4548f45")
 		)
@@ -36278,6 +36656,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 345.44 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 345.44 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -36379,6 +36775,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 325.12 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 325.12 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bf1b4a34-f665-4409-9a4f-a7af3bb812d5")
 		)
@@ -36443,6 +36857,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 325.12 157.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 325.12 157.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -36511,6 +36943,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 325.12 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 325.12 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a936a3d4-8f33-4ef1-9f44-78053bbf6b57")
 		)
@@ -36577,6 +37027,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 199.39 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 199.39 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5a627a23-43c7-40b8-b353-76576a07bedd")
 		)
@@ -36641,6 +37109,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 316.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 316.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "5"
@@ -36745,6 +37231,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 334.01 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 334.01 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "b0ce8cb0-ffb3-4ec1-bb2f-5edf73d0d308")
 		)
@@ -36845,6 +37349,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 294.64 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 294.64 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -37041,6 +37563,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 238.76 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 238.76 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c3efde12-7784-4901-8a4e-9154027e9366")
 		)
@@ -37109,6 +37649,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 194.31 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 194.31 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "44224bcb-7626-4569-8222-59d42d40302a")
 		)
@@ -37173,6 +37731,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 184.15 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 184.15 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -37241,6 +37817,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 163.83 269.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 163.83 269.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -37437,6 +38031,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 476.25 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 476.25 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "24"
 			(uuid "b68ded7b-557f-4deb-9075-1f00a97a4cc0")
 		)
@@ -37619,6 +38231,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 391.16 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 391.16 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "462cbdab-9729-4d72-888a-3200be409f7c")
 		)
@@ -37760,6 +38390,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 260.35 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 260.35 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3398cae-01ce-4c0c-8b04-97cda0b8fbbf")
 		)
@@ -37824,6 +38472,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 260.35 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 260.35 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -38020,6 +38686,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 335.28 439.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 335.28 439.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea7f56c5-0be5-4746-9c0a-1d30313d36dc")
 		)
@@ -38084,6 +38768,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 335.28 443.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 335.28 443.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -38152,6 +38854,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 335.28 447.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 335.28 447.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3b966308-8db6-467e-9add-6172d0d0c725")
 		)
@@ -38216,6 +38936,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 335.28 450.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 335.28 450.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -38284,6 +39022,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 335.28 454.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 335.28 454.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1594b9fc-e49d-4973-8275-7e6411943bff")
 		)
@@ -38348,6 +39104,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 335.28 458.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 335.28 458.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -38416,6 +39190,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 335.28 462.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 335.28 462.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e5bbe564-dc2d-442c-bb46-d73afb9c1028")
 		)
@@ -38480,6 +39272,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 335.28 466.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 335.28 466.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -38550,6 +39360,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 222.25 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 222.25 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -38688,6 +39516,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 172.72 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 172.72 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bd3162e8-24dc-4d50-a5b2-1ddb1a124406")
 		)
@@ -38752,6 +39598,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 172.72 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 172.72 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -38820,6 +39684,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 325.12 307.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 325.12 307.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "253ef4f7-8749-496d-8d36-5f77126d15cc")
 		)
@@ -38886,6 +39768,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 325.12 365.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 325.12 365.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65fcff94-e637-4356-b806-b9cba9f97196")
 		)
@@ -38950,6 +39850,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 325.12 424.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 325.12 424.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -39082,6 +40000,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 238.76 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 238.76 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9f0b0ef5-2d27-4a93-bf10-2a2f0b8c99ca")
 		)
@@ -39146,6 +40082,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 238.76 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 238.76 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -39281,6 +40235,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 106.68 452.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 106.68 452.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a07fafcb-94a7-4233-a841-a77c8ad03ed9")
 		)
@@ -39348,6 +40320,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 161.29 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 161.29 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -39480,6 +40470,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 151.13 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 151.13 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "28aebd6e-2ceb-46d6-a427-d88f89fd61d9")
 		)
@@ -39544,6 +40552,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 209.55 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 209.55 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -39615,6 +40641,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 109.22 469.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 109.22 469.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad8b5ff0-3ccb-49eb-aee9-06fc40b441fe")
 		)
@@ -39679,6 +40723,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 325.12 248.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 325.12 248.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -39747,6 +40809,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 330.2 279.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 330.2 279.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4516a074-ede7-4eb0-9844-253b2bf83b67")
 		)
@@ -39811,6 +40891,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 685.8 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 685.8 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "15"
@@ -40035,6 +41133,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 330.2 339.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 330.2 339.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "25726848-191d-4c6a-abc5-afffdf0439b4")
 		)
@@ -40167,6 +41283,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 330.2 397.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 330.2 397.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b2dab3f5-341d-452e-aa36-2ea6c76b5aa8")
 		)
@@ -40297,6 +41431,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 330.2 223.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 330.2 223.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7a85e79f-c278-4636-85e5-ea7eff2f816e")
 		)
@@ -40364,6 +41516,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 416.56 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 416.56 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -40453,6 +41623,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 408.94 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 408.94 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fddb14d5-c177-4f01-a1b0-5bf6f2a09ddc")
 		)
@@ -40520,6 +41708,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 411.48 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 411.48 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -40591,6 +41797,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 414.02 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 414.02 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1361743f-78e9-4c74-9248-f749ac7e81b7")
 		)
@@ -40660,6 +41884,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 416.56 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 416.56 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f595bd10-40d4-45a8-9e6e-14d57bef0d97")
 		)
@@ -40727,6 +41969,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 419.1 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 419.1 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -40862,6 +42122,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 421.64 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 421.64 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bfc73da4-3aa6-49b2-a541-457d14315d8b")
 		)
@@ -40926,6 +42204,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 391.16 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 391.16 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -40995,6 +42291,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 424.18 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 424.18 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -41194,6 +42508,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 426.72 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 426.72 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b746f226-f68e-49ea-881e-8090cfe0b91e")
 		)
@@ -41328,6 +42660,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 123.19 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 123.19 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d829a41-5bb5-49e6-b77f-4c6e408d1d8c")
 		)
@@ -41395,6 +42745,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 161.29 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 161.29 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -41465,6 +42833,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 161.29 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 161.29 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -41602,6 +42988,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 109.22 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 109.22 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c2fbf665-ac10-4af4-826b-e60c20f9e250")
 		)
@@ -41671,6 +43075,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 139.7 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 139.7 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1526fe00-dd54-4333-ad39-10b487cb6873")
 		)
@@ -41737,6 +43159,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 127 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 127 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca2b1f2f-57bf-47d2-ba7f-288ec9413ac3")
 		)
@@ -41801,6 +43241,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 127 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 127 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -42065,6 +43523,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 114.3 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 114.3 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c9b98e04-e069-4b0e-a91e-ceb0a84c73b6")
 		)
@@ -42129,6 +43605,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 285.75 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 285.75 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -42197,6 +43691,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 152.4 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 152.4 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -42332,6 +43844,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 67.31 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 67.31 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "MP"
 			(uuid "eacfa8ef-2170-4117-bbba-3ec9be1b5900")
 		)
@@ -42399,6 +43929,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 369.57 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 369.57 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -42531,6 +44079,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 109.22 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 109.22 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7a8227e-64f9-45d8-932c-bf961d9c6a97")
 		)
@@ -42595,6 +44161,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 373.38 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 373.38 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -42727,6 +44311,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 88.9 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 88.9 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aea18bd3-8ca9-4ef5-a927-09dc752572f5")
 		)
@@ -42793,6 +44395,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 120.65 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 120.65 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -42872,6 +44492,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 572.77 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 572.77 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0da7e1e0-591f-46b6-a139-5f8f76247ea5")
 		)
@@ -42944,6 +44582,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 116.84 488.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 116.84 488.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6cfd09a8-d2cb-4e09-85a9-544b689a5169")
 		)
@@ -43010,6 +44666,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 377.19 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 377.19 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5812da96-fe2b-4a64-a16e-3a7d9644aac7")
 		)
@@ -43074,6 +44748,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 381 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 381 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -43207,6 +44899,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 384.81 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 384.81 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a7bbfdf7-d339-4f17-bcb4-1d75a9a9b482")
 		)
@@ -43271,6 +44981,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 388.62 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 388.62 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -43339,6 +45067,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 392.43 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 392.43 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10f9e807-c005-46e8-b56a-764586295835")
 		)
@@ -43403,6 +45149,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 396.24 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 396.24 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -43471,6 +45235,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 88.9 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 88.9 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a988cc7d-50de-4f32-a666-b91697834fba")
 		)
@@ -43537,6 +45319,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 106.68 499.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 106.68 499.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -43735,6 +45535,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 539.75 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 539.75 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c2100d0-43ce-4dba-ac91-662a16e939cc")
 		)
@@ -43868,6 +45686,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 199.39 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 199.39 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "e46192be-9663-46a5-9d91-7b871cd7c795")
 		)
@@ -43964,6 +45800,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 539.75 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 539.75 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "496035e7-fe55-43ba-a948-96e25dd085cb")
 		)
@@ -44028,6 +45882,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 176.53 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 176.53 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -44100,6 +45972,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 264.16 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 264.16 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "43a644da-94ed-483e-a0aa-22bd384f9e88")
 		)
@@ -44169,6 +46059,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 539.75 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 539.75 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2a9f7890-7ce0-4caa-81e0-1eab6ed9e0c8")
 		)
@@ -44235,6 +46143,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 166.37 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 166.37 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "75065a42-1d51-480d-ae7f-eecbbfd8eb17")
 		)
@@ -44299,6 +46225,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 539.75 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 539.75 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -44495,6 +46439,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 171.45 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 171.45 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ee36f49-fa69-4393-ba37-fb5575021332")
 		)
@@ -44559,6 +46521,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 163.83 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 163.83 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -44627,6 +46607,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 113.03 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 113.03 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "57c53a73-e834-42ff-9ddf-3d3a0a86433f")
 		)
@@ -44691,6 +46689,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 156.21 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 156.21 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -44761,6 +46777,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 549.91 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 549.91 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e669901e-a332-4ad8-9f8e-1e01f51b4c19")
 		)
@@ -44828,6 +46862,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 128.27 499.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 128.27 499.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -45026,6 +47078,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 523.24 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 523.24 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a8d6dc0-557d-4ffd-9899-ad94c6fbb2f1")
 		)
@@ -45092,6 +47162,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 152.4 491.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 152.4 491.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -45161,6 +47249,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 572.77 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 572.77 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -45424,6 +47530,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 130.81 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 130.81 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f1fbb8a-6269-4b5b-b26c-e5825aa417bd")
 		)
@@ -45490,6 +47614,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 53.34 411.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 53.34 411.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -45620,6 +47762,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 123.19 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 123.19 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -45753,6 +47913,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 106.68 195.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 106.68 195.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -45890,6 +48068,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 137.16 491.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 137.16 491.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "996ec42e-6c87-4377-a6c2-1c673fe1540a")
 		)
@@ -45956,6 +48152,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 114.3 204.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 114.3 204.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b3025c33-b634-47be-ac0c-1ae57f9a9d02")
 		)
@@ -46020,6 +48234,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 138.43 452.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 138.43 452.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -46091,6 +48323,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 575.31 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 575.31 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3909ad71-6332-43ce-9146-35661017a7f6")
 		)
@@ -46158,6 +48408,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 147.32 499.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 147.32 499.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -46356,6 +48624,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 102.87 180.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 102.87 180.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8fb8a15b-f8ff-40eb-a0a7-b4b03484d16c")
 		)
@@ -46420,6 +48706,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 102.87 172.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 102.87 172.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -46553,6 +48857,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 353.06 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 353.06 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b749e23d-7ce0-4750-b42a-eb065e0ea932")
 		)
@@ -46618,6 +48940,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 588.01 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 588.01 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -46689,6 +49029,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 95.25 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 95.25 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fffb07fe-c42e-4650-b2f6-17b206d7a957")
 		)
@@ -46756,6 +49114,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 353.06 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 353.06 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c983a29c-b70f-4e8a-b75b-66f46d29e920")
 		)
@@ -46817,6 +49193,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 86.36 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 86.36 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -46886,6 +49280,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 350.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 350.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d2d9bdd-89fc-4f33-82f0-c1aef68b4142")
 		)
@@ -46947,6 +49359,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 77.47 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 77.47 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -47013,6 +49443,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 68.58 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 68.58 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -47082,6 +49530,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 350.52 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 350.52 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0bf7dbd9-7a7a-4278-b4d0-e7ecd7935a89")
 		)
@@ -47143,6 +49609,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 124.46 207.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 124.46 207.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -47209,6 +49693,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 124.46 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 124.46 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -47278,6 +49780,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 106.68 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 106.68 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -47477,6 +49997,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 111.76 227.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 111.76 227.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -47737,6 +50275,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 163.83 213.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 163.83 213.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f21e650-8332-420b-a76a-8a00eba7a762")
 		)
@@ -47801,6 +50357,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 163.83 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 163.83 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -47869,6 +50443,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 147.32 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 147.32 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4a411e70-f02e-4bb5-a556-9dd2acd7fd25")
 		)
@@ -47933,6 +50525,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 163.83 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 163.83 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -48003,6 +50613,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 153.67 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 153.67 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "984f591c-c3af-4110-8aa5-2964a8fb809b")
 		)
@@ -48067,6 +50695,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 177.8 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 177.8 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -48199,6 +50845,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 163.83 240.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 163.83 240.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4d48d21c-8360-4604-9cfc-179b4ecec67b")
 		)
@@ -48263,6 +50927,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 153.67 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 153.67 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -48331,6 +51013,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 147.32 240.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 147.32 240.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "63dbb362-ea3b-40cd-a152-348aee213717")
 		)
@@ -48395,6 +51095,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 140.97 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 140.97 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -48463,6 +51181,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 163.83 257.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 163.83 257.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a4538e8c-5a3a-4148-9ec8-4102a2df090d")
 		)
@@ -48527,6 +51263,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 135.89 265.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 135.89 265.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -48659,6 +51413,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 116.84 252.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 116.84 252.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9b86f106-f000-4fed-baff-83c5fb48ea26")
 		)
@@ -48723,6 +51495,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 116.84 245.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 116.84 245.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -48791,6 +51581,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 121.92 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 121.92 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f7fac5d-da1a-4287-9c34-f4fca8bdb99b")
 		)
@@ -48855,6 +51663,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 104.14 245.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 104.14 245.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -48926,6 +51752,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 100.33 257.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 100.33 257.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "30395b7c-9a14-4ec0-99c1-fd00d201452d")
 		)
@@ -48995,6 +51839,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 116.84 260.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 116.84 260.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "17553238-a273-43e9-a0ed-177ee8c6f3dc")
 		)
@@ -49059,6 +51921,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 88.9 260.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 88.9 260.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -49127,6 +52007,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 109.22 240.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 109.22 240.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -49198,6 +52096,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 109.22 274.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 109.22 274.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b277e036-0b94-4527-8b94-f6596433f86b")
 		)
@@ -49267,6 +52183,24 @@
 				)
 			)
 		)
+		(property "Fitted" ""
+			(at 115.57 285.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 115.57 285.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "407bfa5a-96f7-4aba-b8b1-f46ea78de2cc")
 		)
@@ -49331,6 +52265,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 88.9 276.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 88.9 276.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -49399,6 +52351,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 553.72 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 553.72 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -49511,6 +52481,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 601.98 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 601.98 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "efe20d45-e044-4b98-9077-aa014df4c3ff")
 		)
@@ -49619,6 +52607,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 581.66 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 581.66 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "41fec802-f31d-44fc-9b4f-96fae2a1c4bc")
 		)
@@ -49725,6 +52731,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 607.06 246.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 607.06 246.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -49921,6 +52945,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 581.66 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 581.66 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "8c358f51-2462-4149-80d6-d1117c0db136")
 		)
@@ -50027,6 +53069,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 607.06 281.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 607.06 281.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -50223,6 +53283,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 580.39 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 580.39 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f87de37-af3b-41ae-ac96-bcc9d2c4a76d")
 		)
@@ -50329,6 +53407,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 605.79 317.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 605.79 317.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -50525,6 +53621,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 580.39 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 580.39 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "d9248c6b-253e-44fa-9c6b-cd6b0ad6b034")
 		)
@@ -50631,6 +53745,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 605.79 353.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 605.79 353.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -50827,6 +53959,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 580.39 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 580.39 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "dcc01d92-8f6c-46ae-9c76-415f6aa8b74d")
 		)
@@ -50933,6 +54083,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 605.79 388.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 605.79 388.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -51129,6 +54297,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 580.39 420.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 580.39 420.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "2463ac2c-528d-4d54-9d4e-d162f0b77944")
 		)
@@ -51235,6 +54421,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 605.79 424.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 605.79 424.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -51429,6 +54633,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 579.12 455.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 579.12 455.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "10"
@@ -51667,6 +54889,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 579.12 491.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 579.12 491.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9143a20-16b7-48cf-9980-85ee37d9997d")
 		)
@@ -51773,6 +55013,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 604.52 495.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 604.52 495.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -52225,6 +55483,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 628.65 514.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 628.65 514.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f650390b-27ba-424f-8c54-7461bae0f758")
 		)
@@ -52325,6 +55601,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 607.06 521.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 607.06 521.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -52430,6 +55724,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 585.47 530.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 585.47 530.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "d5182fd8-5372-4353-81ac-86051135a960")
 		)
@@ -52530,6 +55842,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 565.15 533.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 565.15 533.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "9"
@@ -52699,6 +56029,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 607.06 546.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 607.06 546.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "812acad0-7201-41c2-ad94-7a4d8b28b75c")
 		)
@@ -52801,6 +56149,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 589.28 546.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 589.28 546.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "06e2746a-dbd9-40fe-bded-74a6d578f5b3")
 		)
@@ -52865,6 +56231,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 543.56 533.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 543.56 533.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -52933,6 +56317,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 565.15 546.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 565.15 546.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "515c60a0-5de0-4950-ac85-57ad835936d9")
 		)
@@ -52999,6 +56401,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 525.78 546.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 525.78 546.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "64f14a08-0919-454b-8673-fc5f1f0be524")
 		)
@@ -53063,6 +56483,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 525.78 535.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 525.78 535.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -53297,6 +56735,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 497.84 538.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 497.84 538.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "11907873-8dda-4186-a8be-c36513e03f8e")
 		)
@@ -53399,6 +56855,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 476.25 538.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 476.25 538.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -53633,6 +57107,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 107.95 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 107.95 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "06e37203-e029-4b2d-a5a3-6378c349e512")
 		)
@@ -53704,6 +57196,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 82.55 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 82.55 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fee828fb-77f0-4dbc-ae4f-d2ee57999bde")
 		)
@@ -53770,6 +57280,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 124.46 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 124.46 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -53900,6 +57428,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" ""
+			(at 92.71 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" ""
+			(at 92.71 381 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -54034,6 +57580,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 43.18 424.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 43.18 424.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6d575f5-890c-4641-a601-8849d8a02efe")
 		)
@@ -54103,6 +57667,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 40.64 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 40.64 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08dc1fb5-ad49-4540-8f7a-7bdc587fabc9")
 		)
@@ -54167,6 +57749,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 53.34 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 53.34 438.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -54235,6 +57835,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 72.39 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 72.39 420.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2892aa04-14ab-4839-b82e-87edd1eb29d8")
 		)
@@ -54299,6 +57917,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 40.64 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 40.64 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -54367,6 +58003,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 63.5 445.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 63.5 445.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "43da8bd7-8863-43ee-9a0b-257fb87adc84")
 		)
@@ -54432,6 +58086,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 80.01 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 80.01 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -54509,6 +58181,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 78.74 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 78.74 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55c49dbe-73af-4062-8c5f-34e34f782770")
 		)
@@ -54578,6 +58268,24 @@
 				)
 			)
 		)
+		(property "Fitted" "0"
+			(at 90.17 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 90.17 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e99b858b-24d0-4710-a3bc-9b3d875c0d96")
 		)
@@ -54644,6 +58352,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Fitted" "0"
+			(at 97.79 461.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourced" "0"
+			(at 97.79 461.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
