@@ -12,7 +12,7 @@
         "copper_text_size_h": 1.5,
         "copper_text_size_v": 1.5,
         "copper_text_thickness": 0.3,
-        "copper_text_upright": true,
+        "copper_text_upright": false,
         "courtyard_line_width": 0.05,
         "dimension_precision": 4,
         "dimension_units": 3,
@@ -20,9 +20,9 @@
           "arrow_length": 1270000,
           "extension_offset": 500000,
           "keep_text_aligned": true,
-          "suppress_zeroes": true,
+          "suppress_zeroes": false,
           "text_position": 0,
-          "units_format": 0
+          "units_format": 1
         },
         "fab_line_width": 0.1,
         "fab_text_italic": false,
@@ -30,36 +30,37 @@
         "fab_text_size_v": 1.0,
         "fab_text_thickness": 0.15,
         "fab_text_upright": false,
-        "other_line_width": 0.15,
+        "other_line_width": 0.1,
         "other_text_italic": false,
         "other_text_size_h": 1.0,
         "other_text_size_v": 1.0,
         "other_text_thickness": 0.15,
-        "other_text_upright": true,
+        "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 3.0,
+          "height": 3.5,
+          "width": 3.5
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
         "silk_text_size_h": 1.0,
         "silk_text_size_v": 1.0,
         "silk_text_thickness": 0.15,
-        "silk_text_upright": true,
+        "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
         {
-          "gap": 0.25,
-          "via_gap": 0.25,
-          "width": 0.2
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
         }
       ],
       "drc_exclusions": [],
       "meta": {
+        "filename": "board_design_settings.json",
         "version": 2
       },
       "rule_severities": {
@@ -80,7 +81,8 @@
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
-        "hole_to_hole": "warning",
+        "hole_near_hole": "error",
+        "hole_to_hole": "error",
         "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
@@ -124,12 +126,10 @@
       "rule_severitieslegacy_courtyards_overlap": false,
       "rule_severitieslegacy_no_courtyard_defined": false,
       "rules": {
-        "allow_blind_buried_vias": false,
-        "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.025,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -143,11 +143,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.4,
-        "solder_mask_clearance": 0.05,
-        "solder_mask_min_width": 0.0,
         "solder_mask_to_copper_clearance": 0.0,
-        "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": -0.0,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -195,7 +191,7 @@
         }
       ],
       "track_widths": [
-        0.25
+        0.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -225,8 +221,8 @@
       },
       "via_dimensions": [
         {
-          "diameter": 0.8,
-          "drill": 0.4
+          "diameter": 0.0,
+          "drill": 0.0
         }
       ],
       "zones_allow_external_fillets": false
@@ -480,7 +476,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.1,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -491,9 +487,43 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.1,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "PArtial",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.75,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.1,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.75,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
         "wire_width": 6
       }
     ],
@@ -502,7 +532,628 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "+12VA"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/LA0"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/LA1"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/LA2"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/LA3"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/LA4"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/LA5"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/LA6"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/LDRAM_WE"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/UA0"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/UA1"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/UA2"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/UA3"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/UA4"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/UA5"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/UA6"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/UA7"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/_LCAS"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/_LRAS"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/_UCAS"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/_URAS"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/_UWRITE"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A0"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A1"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A10"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A11"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A12"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A13"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A14"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A15"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A2"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A3"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A4"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A5"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A6"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A7"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A8"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "A9"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D0"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D1"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D2"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D3"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D4"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D5"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D6"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D7"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C31-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C31-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C32-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C32-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C37-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C38-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C38-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C39-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C43-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C46-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C52-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C53-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C63-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C64-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C65-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C65-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C67-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C68-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C69-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C70-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C71-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C72-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C73-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C74-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C76-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(C79-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(D1-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(D2-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(D3-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(D4-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(D5-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(D6-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(D7-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(D8-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(D9-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(E1-Pad27)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(E1-Pad4)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(Ear0-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad12)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad18)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad19)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad20)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad21)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad22)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad23)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad24)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad25)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad26)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad27)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad29)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad30)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad31)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad34)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC1-Pad39)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC14-Pad12)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC14-Pad17)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC2-Pad6)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC23-Pad10)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC23-Pad8)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC24-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC24-Pad11)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC24-Pad12)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC24-Pad6)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC26-Pad10)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC26-Pad11)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC3-Pad12)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC3-Pad4)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC3-Pad7)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC3-Pad9)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC4-Pad12)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC4-Pad4)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC4-Pad7)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC5-Pad20)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(IC5-Pad27)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(LS1-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(R48-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(R52-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(R60-Pad1)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(R61-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Net-(T1-Pad2)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "U"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "V"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "VIDEO"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "Y"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_BUSACK"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_BUS_REQ"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_CK"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_HALT"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_INT"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_IO_REQ"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_IO_RQULA"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_M1"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_M_REQ"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_NMI"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_RD"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_RESET"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_RFSH"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_ROMCS"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_WAIT"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "_WR"
+      },
+      {
+        "netclass": "PArtial",
+        "pattern": "Net-(C80-Pad2)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+12V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+9V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "-12V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "-5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(C25-Pad1)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(C30-Pad2)"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -520,7 +1171,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -542,39 +1193,9 @@
           "show": true
         },
         {
-          "group_by": false,
-          "label": "Qty",
-          "name": "${QUANTITY}",
-          "show": true
-        },
-        {
           "group_by": true,
           "label": "Value",
           "name": "Value",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "DNP",
-          "name": "${DNP}",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from BOM",
-          "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from Board",
-          "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Footprint",
-          "name": "Footprint",
           "show": true
         },
         {
@@ -585,33 +1206,27 @@
         },
         {
           "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
         },
         {
           "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": true
         },
         {
-          "group_by": false,
-          "label": "Sourced",
-          "name": "Sourced",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Fitted",
-          "name": "Fitted",
-          "show": false
+          "group_by": true,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": true
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": true,
-      "name": "",
+      "include_excluded_from_bom": false,
+      "name": "Grouped By Value",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -658,7 +1273,7 @@
   },
   "sheets": [
     [
-      "884f162a-3f34-43c9-9177-b7423848489b",
+      "07f22ea6-4813-487d-9e01-b5b6de3af68a",
       "Root"
     ]
   ],
